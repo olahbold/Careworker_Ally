@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.navbars_containers {
+  color: #50347f;
+}
+
+.hero_container {
+}
+
+.myImage {
+  position: absolute;
+  width: 100%;
+  height: 50vh;
+  left: 0px;
+  top: 78px;
+}
+
+.backgrounds {
+  position: absolute;
+  width: 100%;
+  height: 50vh;
+  left: 0px;
+  top: 78px;
+  background: linear-gradient(
+    108.41deg,
+    #23133f 11.43%,
+    rgba(35, 19, 63, 0) 100%
+  );
+}
+
+.hero_text {
+  position: absolute;
+  width: 643px;
+  height: 219px;
+  left: 3px;
+  top: 200px;
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: px;
+  line-height: 130%;
+  text-align: left;
+}
+
+.subtitle {
+  position: absolute;
+  width: 598px;
+  height: 59px;
+  left: 101px;
+  top: 478px;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 170%;
+  color: #ffffff;
+}
